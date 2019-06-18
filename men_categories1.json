@@ -1,0 +1,1603 @@
+{
+    "ethnic_wear": {
+        "ethnic_suit_sets": {
+            "accent": [
+                "embroidery",
+                "sequins",
+                "zari",
+                "cut_work",
+                "applique",
+                "stones",
+                "mirror",
+                "stylised"
+            ],
+            "bottomwear_fabric": [
+                "brocade",
+                "cambric",
+                "chambray",
+                "chanderi",
+                "chiffon",
+                "crepe",
+                "denim",
+                "dobby",
+                "dupion",
+                "flex",
+                "georgette",
+                "handloom",
+                "jacquard",
+                "knit",
+                "lace",
+                "mangalgiri",
+                "net",
+                "organza",
+                "satin",
+                "shantoon",
+                "slub",
+                "velvet",
+                "voile"
+            ],
+            "bottomwear_type": [
+                "churidar",
+                "harem",
+                "patiala",
+                "pants",
+                "dhoti",
+                "pyjama",
+                "jodhpuri",
+                "stylised"
+            ],
+            "dupatta_fabric": [
+                "chanderi",
+                "chiffon",
+                "dupion",
+                "georgette",
+                "handloom",
+                "lace",
+                "mangalgiri",
+                "net",
+                "organza",
+                "voile"
+            ],
+            "dupatta_measurement": {},
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "model_waist_size": {},
+            "product_name": [
+                "suit_set"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "3_piece_sets",
+                "2_piece_sets"
+            ]
+        },
+        "kurtas": {
+            "accent": [
+                "embroidery",
+                "sequins",
+                "zari",
+                "cut_work",
+                "applique",
+                "stones",
+                "mirror",
+                "stylised"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "neckline": [
+                "mandarin",
+                "round",
+                "v_neck",
+                "high",
+                "band",
+                "stylised"
+            ],
+            "product_name": [
+                "short_kurta",
+                "long_kurta"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "regular_kurtas",
+                "sherwani_kurtas",
+                "shirt_kurtas",
+                "stylised"
+            ]
+        },
+        "pyjamas_&_churidars": {
+            "accent": [
+                "embroidery",
+                "sequins",
+                "zari",
+                "cut_work",
+                "applique",
+                "stones",
+                "mirror",
+                "stylised"
+            ],
+            "model_waist_size": {},
+            "product_name": [
+                "churidar",
+                "pyjamas",
+                "dhoti",
+                "salwar"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "style_type": [
+                "churidars",
+                "pyjamas",
+                "dhotis",
+                "salwars",
+                "stylised"
+            ]
+        },
+        "sherwani_sets": {
+            "accent": [
+                "embroidery",
+                "sequins",
+                "zari",
+                "cut_work",
+                "applique",
+                "stones",
+                "mirror",
+                "stylised"
+            ],
+            "bottomwear_fabric": [
+                "brocade",
+                "cambric",
+                "chambray",
+                "chanderi",
+                "chiffon",
+                "crepe",
+                "denim",
+                "dobby",
+                "dupion",
+                "flex",
+                "georgette",
+                "handloom",
+                "jacquard",
+                "knit",
+                "lace",
+                "mangalgiri",
+                "net",
+                "organza",
+                "satin",
+                "shantoon",
+                "slub",
+                "velvet",
+                "voile"
+            ],
+            "bottomwear_type": [
+                "churidar",
+                "harem",
+                "patiala",
+                "pants",
+                "dhoti",
+                "pyjama",
+                "jodhpuri",
+                "stylised"
+            ],
+            "dupatta_fabric": [
+                "chanderi",
+                "chiffon",
+                "dupion",
+                "georgette",
+                "handloom",
+                "lace",
+                "mangalgiri",
+                "net",
+                "organza",
+                "voile"
+            ],
+            "dupatta_measurement": {},
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "model_waist_size": {},
+            "product_name": [
+                "sherwani_set"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        },
+        "stoles": {
+            "accent": [
+                "embroidery",
+                "sequins",
+                "zari",
+                "cut_work",
+                "applique",
+                "stones",
+                "mirror",
+                "stylised"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "measurement": {},
+            "product_name": [
+                "stole"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        }
+    },
+    "fusion_wear": {
+        "jackets_&_blazers": {
+            "collar": [
+                "band",
+                "classic",
+                "lapel",
+                "cutaway",
+                "button_down",
+                "spread",
+                "stylised"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "model_waist_size": {},
+            "product_name": [
+                "jacket",
+                "blazer",
+                "nehru_jacket",
+                "bandhgala",
+                "waistcoat"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "nehru",
+                "bandhgala",
+                "waistcoat",
+                "jackets",
+                "blazers"
+            ]
+        },
+        "shirts_&_kurtas": {
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "neckline": [
+                "mandarin",
+                "round",
+                "v_neck",
+                "high",
+                "band",
+                "henley"
+            ],
+            "product_name": [
+                "shirt",
+                "kurta",
+                "shirt_kurta"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        },
+        "suit_sets": {
+            "bottom_description": {},
+            "bottomwear_type": [
+                "churidar",
+                "harem",
+                "patiala",
+                "pants",
+                "dhoti",
+                "pyjama",
+                "jodhpuri",
+                "stylised"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "product_name": [
+                "set",
+                "kurta_suit_set",
+                "2_piece_kurta_suit_set",
+                "3_piece_kurta_suit_set"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "2_piece_sets",
+                "3_piece_sets"
+            ],
+            "top_description": {}
+        },
+        "trousers_&_pants": {
+            "fit_type": [
+                "skinny_fit",
+                "slim_fit",
+                "relaxed_fit",
+                "straight_fit",
+                "tapered_fit",
+                "stylised_fit",
+                "boot_fit"
+            ],
+            "front_style": [
+                "single_pleat",
+                "double_pleat",
+                "flat_front"
+            ],
+            "length": [
+                "mid_calf_length",
+                "ankle_length",
+                "full_length"
+            ],
+            "model_waist_size": {},
+            "product_name": [
+                "pants",
+                "trousers",
+                "dhoti_pants",
+                "jodhpuris",
+                "cargo_pants",
+                "chinos",
+                "flat_front_pants",
+                "pleated_pants",
+                "flat_front_trousers",
+                "pleated_trousers",
+                "pants"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "style_type": [
+                "dhoti_pants",
+                "jodhpuris",
+                "cargo",
+                "chinos",
+                "flat_front",
+                "pleated",
+                "stylised"
+            ],
+            "waist_rise": [
+                "high_rise",
+                "mid_rise",
+                "low_rise"
+            ]
+        }
+    },
+    "inner_wear": {
+        "boxers": {
+            "product_name": [
+                "boxers",
+                "boxer_briefs"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        },
+        "briefs": {
+            "product_name": [
+                "briefs"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        },
+        "inner_wear_sets": {
+            "pack_type": [
+                "pack_of_2",
+                "pack_of_3",
+                "pack_of_4",
+                "pack_of_5",
+                "multi"
+            ],
+            "product_name": [
+                "brief_set",
+                "vest_set",
+                "brief_&_vest_set"
+            ],
+            "style_type": [
+                "brief_sets",
+                "vest_sets",
+                "brief_&_vest_sets"
+            ]
+        },
+        "thermal_wear": {
+            "product_name": [
+                "thermal_vest",
+                "thermal_legging",
+                "thermal_set"
+            ],
+            "style_type": [
+                "thermal_vests",
+                "thermal_leggings",
+                "thermal_sets"
+            ]
+        },
+        "trunks": {
+            "style_type": [
+                "trunks"
+            ]
+        },
+        "vests": {
+            "neckline": [
+                "round",
+                "square",
+                "v_neck",
+                "scoop",
+                "stylised"
+            ],
+            "product_name": [
+                "vest",
+                "sleeveless_vest",
+                "half_sleeve_vest"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        }
+    },
+    "night_&_lounge_wear": {
+        "night_&_lounge_wear_sets": {
+            "model_chest_size": {},
+            "model_waist_size": {},
+            "pack_type": [
+                "pack_of_2",
+                "pack_of_3",
+                "pack_of_4",
+                "pack_of_5",
+                "multi"
+            ],
+            "product_name": [
+                "lounge_pants",
+                "lounge_shorts",
+                "lounge_set",
+                "lounge_t_shirts"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "style_type": [
+                "lounge_pants",
+                "lounge_shorts",
+                "lounge_sets",
+                "lounge_t_shirts"
+            ]
+        },
+        "pyjamas": {
+            "length": [
+                "calf_length",
+                "ankle_length",
+                "full_length"
+            ],
+            "model_waist_size": {},
+            "pack_type": [
+                "pack_of_2",
+                "pack_of_3",
+                "pack_of_4",
+                "pack_of_5",
+                "multi"
+            ],
+            "product_name": [
+                "pyjamas",
+                "tapered_pyjamas",
+                "relaxed_pyjamas"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "style_type": [
+                "regular",
+                "tapered",
+                "relaxed"
+            ],
+            "waist_rise": [
+                "high_rise",
+                "mid_rise",
+                "low_rise"
+            ]
+        },
+        "shorts": {
+            "length": [
+                "above_the_knee",
+                "knee_length",
+                "below_the_knee"
+            ],
+            "model_waist_size": {},
+            "pack_type": [
+                "pack_of_2",
+                "pack_of_3",
+                "pack_of_4",
+                "pack_of_5",
+                "multi"
+            ],
+            "product_name": [
+                "shorts",
+                "3/4th_shorts",
+                "lounge_shorts",
+                "bermudas",
+                "cargo_shorts",
+                "city_shorts"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "style_type": [
+                "bermudas",
+                "cargo_shorts",
+                "city_shorts",
+                "stylised"
+            ],
+            "waist_rise": [
+                "high_rise",
+                "mid_rise",
+                "low_rise"
+            ]
+        },
+        "sweatshirts_&_jackets": {
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "pack_type": [
+                "pack_of_2",
+                "pack_of_3",
+                "pack_of_4",
+                "pack_of_5",
+                "multi"
+            ],
+            "product_name": [
+                "hoodie",
+                "sweatshirt",
+                "jacket"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "bikers_&_bombers",
+                "peacoats_&_trenches",
+                "hoodies_&_tracks",
+                "gillets",
+                "sweatshirts",
+                "hoodies",
+                "stylised"
+            ]
+        },
+        "tshirts": {
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "neckline": [
+                "v",
+                "round",
+                "collar",
+                "scoop",
+                "crew",
+                "stylised"
+            ],
+            "pack_type": [
+                "pack_of_2",
+                "pack_of_3",
+                "pack_of_4",
+                "pack_of_5",
+                "multi"
+            ],
+            "product_name": [
+                "t_shirt",
+                "lounge_t_shirt",
+                "lounge_polo_t_shirt",
+                "lounge_v_neck_t_shirt",
+                "lounge_henley_t_shirt",
+                "lounge_crew__neck_t_shirt",
+                "lounge_high_neck_t_shirt"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "polo",
+                "v",
+                "henley",
+                "crew",
+                "stylised"
+            ]
+        }
+    },
+    "western_wear": {
+        "blazers_&_waistcoats": {
+            "button_closure": [
+                "single_breasted",
+                "double_breasted"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "lapel": [
+                "notched",
+                "peaked",
+                "shawl",
+                "no_lapel",
+                "stylised"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "product_name": [
+                "blazer",
+                "waistcoat"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "blazers",
+                "waistcoats"
+            ],
+            "vents": [
+                "side_vents",
+                "center_vent",
+                "back_vents",
+                "no_vents"
+            ]
+        },
+        "jackets_&_coats": {
+            "collar": [
+                "band",
+                "classic",
+                "lapel",
+                "cutaway",
+                "button_down",
+                "spread",
+                "mandarin",
+                "stylised",
+                "wing",
+                "shirt"
+            ],
+            "feature": [
+                "hooded",
+                "water_resistant",
+                "wind_resistant",
+                "padded_&_quilted",
+                "water_proof",
+                "reflective"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "product_name": [
+                "jacket",
+                "coat",
+                "shacket",
+                "bikers_jacket",
+                "bomber_jacket",
+                "trench_coat",
+                "peacoats",
+                "track_jacket",
+                "gillet",
+                "quilted_jacket"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "sport": [
+                "yoga",
+                "gym",
+                "cycling",
+                "tennis",
+                "biking",
+                "football",
+                "outdoor",
+                "running",
+                "basketball",
+                "cricket",
+                "jackets",
+                "training",
+                "golf",
+                "swimming",
+                "other_sports",
+                "dancing",
+                "fitness",
+                "trackwear",
+                "universal"
+            ],
+            "style_type": [
+                "bikers_&_bombers",
+                "peacoats_&_trenches",
+                "hoodies_&_tracks",
+                "gillets",
+                "stylised"
+            ]
+        },
+        "jeans": {
+            "distress": [
+                "light_distress",
+                "mid_distress",
+                "heavy_distress"
+            ],
+            "length": [
+                "mid_calf_length",
+                "ankle_length",
+                "full_length"
+            ],
+            "model_waist_size": {},
+            "product_name": [
+                "jeans",
+                "skinny_jeans",
+                "slim_jeans",
+                "straight_jeans",
+                "relaxed_jeans",
+                "flared_jeans",
+                "tapered_jeans",
+                "jogger_jeans"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "style_type": [
+                "skinny",
+                "slim",
+                "straight",
+                "relaxed",
+                "flared",
+                "joggers",
+                "tapered"
+            ],
+            "waist_rise": [
+                "high_rise",
+                "mid_rise",
+                "low_rise"
+            ],
+            "wash": [
+                "clean",
+                "acid_wash",
+                "light_wash",
+                "mid_wash",
+                "heavy_wash"
+            ]
+        },
+        "rainwear_&_windcheaters": {
+            "feature": [
+                "hooded",
+                "water_resistant",
+                "wind_resistant",
+                "water_proof",
+                "padded_&_quilted",
+                "reflective",
+                "uv_resistant"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "model_waist_size": {},
+            "product_name": [
+                "raincoat",
+                "windbreaker",
+                "outdoor_jacket",
+                "jacket"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "raincoats",
+                "windbreakers",
+                "waterproof_jackets",
+                "biker_jackets"
+            ]
+        },
+        "shirt_pieces": {
+            "measurement": {},
+            "product_name": [
+                "shirt_fabric"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        },
+        "shirts": {
+            "collar": [
+                "mandarin",
+                "band",
+                "button_down",
+                "cut_away",
+                "spread",
+                "wing",
+                "stylised",
+                "lapel"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "product_name": [
+                "shirt"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "classic",
+                "shackets",
+                "stylised"
+            ]
+        },
+        "shorts_&_3/4ths": {
+            "branding": [
+                "big_branding",
+                "small_branding",
+                "branding_with_graphic"
+            ],
+            "fit_type": [
+                "regular_fit",
+                "slim_fit"
+            ],
+            "front_style": [
+                "single_pleat",
+                "double_pleat",
+                "flat_front"
+            ],
+            "length": [
+                "above_the_knee",
+                "knee_length",
+                "below_the_knee"
+            ],
+            "model_waist_size": {},
+            "product_name": [
+                "shorts",
+                "3/4th_shorts",
+                "bermudas",
+                "cargo_shorts",
+                "city_shorts"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sport": [
+                "yoga",
+                "gym",
+                "cycling",
+                "tennis",
+                "biking",
+                "football",
+                "outdoor",
+                "running",
+                "basketball",
+                "cricket",
+                "jackets",
+                "training",
+                "golf",
+                "swimming",
+                "other_sports",
+                "dancing",
+                "fitness",
+                "trackwear",
+                "universal"
+            ],
+            "style_type": [
+                "bermudas",
+                "cargo_shorts",
+                "city_shorts",
+                "stylised"
+            ],
+            "waist_rise": [
+                "high_rise",
+                "mid_rise",
+                "low_rise"
+            ]
+        },
+        "suit_pieces": {
+            "measurement": {},
+            "product_name": [
+                "suit_piece"
+            ],
+            "style_type": [
+                "2_piece",
+                "3_piece"
+            ]
+        },
+        "suit_sets": {
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "model_waist_size": {},
+            "product_name": [
+                "suit_set"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "3_piece_sets",
+                "2_piece_sets"
+            ]
+        },
+        "sweaters_&_cardigans": {
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "neckline": [
+                "crew",
+                "collar",
+                "v_neck",
+                "turtleneck",
+                "henley",
+                "stylised",
+                "scoop",
+                "round"
+            ],
+            "product_name": [
+                "pullover",
+                "cardigan",
+                "v__neck_pullover",
+                "crew_neck_pullover",
+                "high_neck_pullover",
+                "open_front_cardigan"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "cardigans",
+                "pullovers",
+                "stylised"
+            ]
+        },
+        "sweatshirts_&_hoodies": {
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "neckline": [
+                "crew",
+                "collar",
+                "v_neck",
+                "turtleneck",
+                "henley",
+                "stylised",
+                "scoop",
+                "round"
+            ],
+            "product_name": [
+                "sweatshirt",
+                "hoodie",
+                "hooded_sweatshirt"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "sport": [
+                "yoga",
+                "gym",
+                "cycling",
+                "tennis",
+                "biking",
+                "football",
+                "outdoor",
+                "running",
+                "basketball",
+                "cricket",
+                "jackets",
+                "training",
+                "golf",
+                "swimming",
+                "other_sports",
+                "dancing",
+                "fitness",
+                "trackwear",
+                "universal"
+            ],
+            "style_type": [
+                "hoodies",
+                "sweat_shirts"
+            ]
+        },
+        "swimwear": {
+            "feature": {},
+            "product_name": [
+                "swimsuit",
+                "swim_shorts",
+                "swim_trunks",
+                "swim_briefs",
+                "rashguard"
+            ],
+            "style_type": [
+                "swimsuits",
+                "shorts",
+                "trunks",
+                "briefs",
+                "rashguards"
+            ]
+        },
+        "track_pants": {
+            "branding": [
+                "big_branding",
+                "small_branding",
+                "branding_with_graphic"
+            ],
+            "length": [
+                "mid_calf_length",
+                "ankle_length",
+                "full_length"
+            ],
+            "model_waist_size": {},
+            "product_name": [
+                "track_pants",
+                "joggers",
+                "sweat_pants"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sport": [
+                "yoga",
+                "gym",
+                "cycling",
+                "tennis",
+                "biking",
+                "football",
+                "outdoor",
+                "running",
+                "basketball",
+                "cricket",
+                "jackets",
+                "training",
+                "golf",
+                "swimming",
+                "other_sports",
+                "dancing",
+                "fitness",
+                "trackwear",
+                "universal"
+            ],
+            "style_type": [
+                "straight",
+                "joggers",
+                "flared",
+                "fitted",
+                "stylised"
+            ],
+            "waist_rise": [
+                "high_rise",
+                "mid_rise",
+                "low_rise"
+            ]
+        },
+        "tracksuits": {
+            "bottom_description": {},
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "model_waist_size": {},
+            "product_name": [
+                "tracksuit"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "style_type": [
+                "running",
+                "training",
+                "performance",
+                "outdoor",
+                "lifestyle"
+            ],
+            "top_description": {}
+        },
+        "trouser_pieces": {
+            "measurement": {},
+            "product_name": [
+                "trouser_fabric"
+            ],
+            "style_type": [
+                "regular",
+                "stylised"
+            ]
+        },
+        "trousers_&_pants": {
+            "fit_type": [
+                "skinny_fit",
+                "slim_fit",
+                "relaxed_fit",
+                "straight_fit",
+                "tapered_fit",
+                "stylised_fit",
+                "boot_fit"
+            ],
+            "front_style": [
+                "single_pleat",
+                "double_pleat",
+                "flat_front"
+            ],
+            "length": [
+                "mid_calf_length",
+                "ankle_length",
+                "full_length"
+            ],
+            "model_waist_size": {},
+            "product_name": [
+                "pants",
+                "trousers",
+                "cargo_pants",
+                "chinos",
+                "jogger_pants"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sport": [
+                "yoga",
+                "gym",
+                "cycling",
+                "tennis",
+                "biking",
+                "football",
+                "outdoor",
+                "running",
+                "basketball",
+                "cricket",
+                "jackets",
+                "training",
+                "golf",
+                "swimming",
+                "other_sports",
+                "dancing",
+                "fitness",
+                "trackwear",
+                "universal"
+            ],
+            "style_type": [
+                "cargo",
+                "chinos",
+                "flat_front",
+                "pleated",
+                "stylised"
+            ],
+            "waist_rise": [
+                "high_rise",
+                "mid_rise",
+                "low_rise"
+            ]
+        },
+        "tshirts": {
+            "branding": [
+                "big_branding",
+                "small_branding",
+                "branding_with_graphic"
+            ],
+            "collar": [
+                "shirt",
+                "mandarin",
+                "band",
+                "stylised",
+                "button_down",
+                "cutaway",
+                "spread",
+                "wing",
+                "lapel"
+            ],
+            "fit": [
+                "slim_fit",
+                "extra_slim_fit",
+                "regular_fit",
+                "tailored_fit",
+                "stylised_fit"
+            ],
+            "length": [
+                "short",
+                "medium",
+                "long"
+            ],
+            "model_chest_size": {},
+            "neckline": [
+                "v_neck",
+                "round",
+                "collar",
+                "scoop",
+                "stylised",
+                "turtleneck",
+                "henley",
+                "crew"
+            ],
+            "product_name": [
+                "t_shirt",
+                "polo_t_shirt",
+                "v_neck_t_shirt",
+                "henley_t_shirt",
+                "crew__neck_t_shirt",
+                "high_neck_t_shirt"
+            ],
+            "size_detail": [
+                "fits_true_to_standard_size_on_the_model",
+                "fits_smaller_than_standard_size,_so_our_model_is_wearing_a_size_larger",
+                "fits_larger_than_standard_size,_so_our_model_is_wearing_a_size_smaller",
+                "the_model_is_wearing_a_size_larger_for_a_comfortable_fit"
+            ],
+            "sleeve": [
+                "short",
+                "sleeveless",
+                "full_length",
+                "stylised",
+                "3/4th"
+            ],
+            "sport": [
+                "yoga",
+                "gym",
+                "cycling",
+                "tennis",
+                "biking",
+                "football",
+                "outdoor",
+                "running",
+                "basketball",
+                "cricket",
+                "jackets",
+                "training",
+                "golf",
+                "swimming",
+                "other_sports",
+                "dancing",
+                "fitness",
+                "trackwear",
+                "universal"
+            ],
+            "style_type": [
+                "polo",
+                "v_neck",
+                "henley",
+                "crew",
+                "stylised"
+            ]
+        }
+    }
+}

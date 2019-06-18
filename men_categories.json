@@ -1,0 +1,1603 @@
+{
+    "Ethnic Wear": {
+        "Ethnic Suit Sets": {
+            "Accent": [
+                "Embroidery",
+                "Sequins",
+                "Zari",
+                "Cut-work",
+                "Applique",
+                "Stones",
+                "Mirror",
+                "Stylised"
+            ],
+            "Bottomwear Fabric": [
+                "Brocade",
+                "Cambric",
+                "Chambray",
+                "Chanderi",
+                "Chiffon",
+                "Crepe",
+                "Denim",
+                "Dobby",
+                "Dupion",
+                "Flex",
+                "Georgette",
+                "Handloom",
+                "Jacquard",
+                "Knit",
+                "Lace",
+                "Mangalgiri",
+                "Net",
+                "Organza",
+                "Satin",
+                "Shantoon",
+                "Slub",
+                "Velvet",
+                "Voile"
+            ],
+            "Bottomwear Type": [
+                "Churidar",
+                "Harem",
+                "Patiala",
+                "Pants",
+                "Dhoti",
+                "Pyjama",
+                "Jodhpuri",
+                "Stylised "
+            ],
+            "Dupatta Fabric": [
+                "Chanderi",
+                "Chiffon",
+                "Dupion",
+                "Georgette",
+                "Handloom",
+                "Lace",
+                "Mangalgiri",
+                "Net",
+                "Organza",
+                "Voile"
+            ],
+            "Dupatta Measurement": {},
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Model Waist Size": {},
+            "Product Name": [
+                "Suit Set"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "3-Piece Sets",
+                "2-Piece Sets"
+            ]
+        },
+        "Kurtas": {
+            "Accent": [
+                "Embroidery",
+                "Sequins",
+                "Zari",
+                "Cut-work",
+                "Applique",
+                "Stones",
+                "Mirror",
+                "Stylised"
+            ],
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Neckline": [
+                "Mandarin",
+                "Round",
+                "V-neck",
+                "High",
+                "Band",
+                "Stylised"
+            ],
+            "Product Name": [
+                "Short Kurta",
+                "Long Kurta"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Regular Kurtas",
+                "Sherwani Kurtas ",
+                "Shirt Kurtas",
+                "Stylised"
+            ]
+        },
+        "Pyjamas & Churidars": {
+            "Accent": [
+                "Embroidery",
+                "Sequins",
+                "Zari",
+                "Cut-work",
+                "Applique",
+                "Stones",
+                "Mirror",
+                "Stylised"
+            ],
+            "Model Waist Size": {},
+            "Product Name": [
+                "Churidar",
+                "Pyjamas",
+                "Dhoti",
+                "Salwar"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Style Type": [
+                "Churidars",
+                "Pyjamas",
+                "Dhotis ",
+                "Salwars",
+                "Stylised "
+            ]
+        },
+        "Sherwani Sets": {
+            "Accent": [
+                "Embroidery",
+                "Sequins",
+                "Zari",
+                "Cut-work",
+                "Applique",
+                "Stones",
+                "Mirror",
+                "Stylised"
+            ],
+            "Bottomwear Fabric": [
+                "Brocade",
+                "Cambric",
+                "Chambray",
+                "Chanderi",
+                "Chiffon",
+                "Crepe",
+                "Denim",
+                "Dobby",
+                "Dupion",
+                "Flex",
+                "Georgette",
+                "Handloom",
+                "Jacquard",
+                "Knit",
+                "Lace",
+                "Mangalgiri",
+                "Net",
+                "Organza",
+                "Satin",
+                "Shantoon",
+                "Slub",
+                "Velvet",
+                "Voile"
+            ],
+            "Bottomwear Type": [
+                "Churidar",
+                "Harem",
+                "Patiala",
+                "Pants",
+                "Dhoti",
+                "Pyjama",
+                "Jodhpuri",
+                "Stylised "
+            ],
+            "Dupatta Fabric": [
+                "Chanderi",
+                "Chiffon",
+                "Dupion",
+                "Georgette",
+                "Handloom",
+                "Lace",
+                "Mangalgiri",
+                "Net",
+                "Organza",
+                "Voile"
+            ],
+            "Dupatta Measurement": {},
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Model Waist Size": {},
+            "Product Name": [
+                "Sherwani Set"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Regular",
+                "Stylised"
+            ]
+        },
+        "Stoles": {
+            "Accent": [
+                "Embroidery",
+                "Sequins",
+                "Zari",
+                "Cut-work",
+                "Applique",
+                "Stones",
+                "Mirror",
+                "Stylised"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Measurement": {},
+            "Product Name": [
+                "Stole"
+            ],
+            "Style Type": [
+                "Regular",
+                "Stylised"
+            ]
+        }
+    },
+    "Fusion Wear": {
+        "Jackets & Blazers": {
+            "Collar": [
+                "Band",
+                "Classic",
+                "Lapel",
+                "Cutaway",
+                "Button-down",
+                "Spread",
+                "Stylised"
+            ],
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Model Waist Size": {},
+            "Product Name": [
+                "Jacket",
+                "Blazer",
+                "Nehru Jacket",
+                "Bandhgala",
+                "Waistcoat"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Nehru",
+                "Bandhgala",
+                "Waistcoat",
+                "Jackets ",
+                "Blazers"
+            ]
+        },
+        "Shirts & Kurtas": {
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Neckline": [
+                "Mandarin",
+                "Round",
+                "V-neck",
+                "High",
+                "Band",
+                "Henley"
+            ],
+            "Product Name": [
+                "Shirt",
+                "Kurta",
+                "Shirt Kurta"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Regular ",
+                "Stylised"
+            ]
+        },
+        "Suit Sets": {
+            "Bottom Description": {},
+            "BottomWear Type": [
+                "Churidar",
+                "Harem",
+                "Patiala",
+                "Pants",
+                "Dhoti",
+                "Pyjama",
+                "Jodhpuri",
+                "Stylised "
+            ],
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Product Name": [
+                "Set",
+                "Kurta Suit Set",
+                "2-piece Kurta Suit Set",
+                "3-piece Kurta Suit Set"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "2-Piece Sets",
+                "3-Piece Sets"
+            ],
+            "Top Description": {}
+        },
+        "Trousers & Pants": {
+            "Fit Type": [
+                "Skinny Fit",
+                "Slim Fit",
+                "Relaxed Fit",
+                "Straight Fit",
+                "Tapered Fit",
+                "Stylised Fit",
+                "Boot Fit"
+            ],
+            "Front Style": [
+                "Single-Pleat",
+                "Double-Pleat",
+                "Flat Front"
+            ],
+            "Length": [
+                "Mid-Calf length",
+                "Ankle length",
+                "Full length"
+            ],
+            "Model Waist Size": {},
+            "Product Name": [
+                "Pants",
+                "Trousers",
+                "Dhoti Pants",
+                "Jodhpuris",
+                "Cargo Pants",
+                "Chinos",
+                "Flat-front Pants",
+                "Pleated Pants",
+                "Flat-front Trousers",
+                "Pleated Trousers",
+                "Pants"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Style Type": [
+                "Dhoti Pants",
+                "Jodhpuris",
+                "Cargo",
+                "Chinos",
+                "Flat front",
+                "Pleated",
+                "Stylised "
+            ],
+            "Waist Rise": [
+                "High Rise",
+                "Mid Rise",
+                "Low Rise"
+            ]
+        }
+    },
+    "Inner Wear": {
+        "Boxers": {
+            "Product Name": [
+                "Boxers",
+                "Boxer Briefs"
+            ],
+            "Style Type": [
+                "Regular ",
+                "Stylised"
+            ]
+        },
+        "Briefs": {
+            "Product Name": [
+                "Briefs"
+            ],
+            "Style Type": [
+                "Regular ",
+                "Stylised"
+            ]
+        },
+        "Inner Wear Sets": {
+            "Pack Type": [
+                "Pack of 2",
+                "Pack of 3",
+                "Pack of 4",
+                "Pack of 5",
+                "Multi"
+            ],
+            "Product Name": [
+                "Brief Set",
+                "Vest Set",
+                "Brief & Vest Set"
+            ],
+            "Style Type": [
+                "Brief Sets ",
+                "Vest Sets ",
+                "Brief & Vest Sets"
+            ]
+        },
+        "Thermal Wear": {
+            "Product Name": [
+                "Thermal Vest",
+                "Thermal Legging",
+                "Thermal Set"
+            ],
+            "Style Type": [
+                "Thermal Vests ",
+                "Thermal Leggings",
+                "Thermal Sets "
+            ]
+        },
+        "Trunks": {
+            "Style Type": [
+                "Trunks"
+            ]
+        },
+        "Vests": {
+            "Neckline": [
+                "Round",
+                "Square",
+                "V-neck",
+                "Scoop",
+                "Stylised"
+            ],
+            "Product Name": [
+                "Vest",
+                "Sleeveless Vest",
+                "Half-Sleeve Vest"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless"
+            ],
+            "Style Type": [
+                "Regular",
+                "Stylised"
+            ]
+        }
+    },
+    "Night & Lounge Wear": {
+        "Night & Lounge Wear Sets": {
+            "Model Chest Size": {},
+            "Model Waist Size": {},
+            "Pack Type": [
+                "Pack of 2",
+                "Pack of 3",
+                "Pack of 4",
+                "Pack of 5",
+                "Multi"
+            ],
+            "Product Name": [
+                "Lounge Pants ",
+                "Lounge Shorts ",
+                "Lounge Set",
+                "Lounge T-shirts"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Style Type": [
+                "Lounge Pants ",
+                "Lounge Shorts ",
+                "Lounge Sets ",
+                "Lounge T-shirts"
+            ]
+        },
+        "Pyjamas": {
+            "Length": [
+                "Calf-length",
+                "Ankle-length",
+                "Full-length"
+            ],
+            "Model Waist Size": {},
+            "Pack Type": [
+                "Pack of 2",
+                "Pack of 3",
+                "Pack of 4",
+                "Pack of 5",
+                "Multi"
+            ],
+            "Product Name": [
+                "Pyjamas",
+                "Tapered Pyjamas",
+                "Relaxed Pyjamas"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Style Type": [
+                "Regular ",
+                "Tapered ",
+                "Relaxed "
+            ],
+            "Waist Rise": [
+                "High Rise",
+                "Mid Rise",
+                "Low Rise"
+            ]
+        },
+        "Shorts": {
+            "Length": [
+                "Above the knee",
+                "Knee Length",
+                "Below the knee"
+            ],
+            "Model Waist Size": {},
+            "Pack Type": [
+                "Pack of 2",
+                "Pack of 3",
+                "Pack of 4",
+                "Pack of 5",
+                "Multi"
+            ],
+            "Product Name": [
+                "Shorts",
+                "3/4th Shorts",
+                "Lounge Shorts",
+                "Bermudas",
+                "Cargo Shorts",
+                "City Shorts"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Style Type": [
+                "Bermudas",
+                "Cargo Shorts",
+                "City Shorts",
+                "Stylised"
+            ],
+            "Waist Rise": [
+                "High Rise",
+                "Mid Rise",
+                "Low Rise"
+            ]
+        },
+        "Sweatshirts & Jackets": {
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Pack Type": [
+                "Pack of 2",
+                "Pack of 3",
+                "Pack of 4",
+                "Pack of 5",
+                "Multi"
+            ],
+            "Product Name": [
+                "Hoodie",
+                "Sweatshirt",
+                "Jacket"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Bikers & Bombers",
+                "Peacoats & Trenches",
+                "Hoodies & Tracks ",
+                "Gillets ",
+                "Sweatshirts",
+                "Hoodies",
+                "Stylised"
+            ]
+        },
+        "Tshirts": {
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Neckline": [
+                "V",
+                "Round",
+                "Collar",
+                "Scoop",
+                "Crew",
+                "Stylised"
+            ],
+            "Pack Type": [
+                "Pack of 2",
+                "Pack of 3",
+                "Pack of 4",
+                "Pack of 5",
+                "Multi"
+            ],
+            "Product Name": [
+                "T-shirt",
+                "Lounge T-shirt",
+                "Lounge Polo T-shirt",
+                "Lounge V-neck T-shirt",
+                "Lounge Henley T-shirt",
+                "Lounge Crew- Neck T-shirt",
+                "Lounge High-Neck T-shirt"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Polo",
+                "V ",
+                "Henley",
+                "Crew",
+                "Stylised "
+            ]
+        }
+    },
+    "Western Wear": {
+        "Blazers & Waistcoats": {
+            "Button Closure": [
+                "Single Breasted",
+                "Double Breasted"
+            ],
+            "Fit ": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Lapel": [
+                "Notched",
+                "Peaked",
+                "Shawl",
+                "No Lapel",
+                "Stylised"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Product Name": [
+                "Blazer",
+                "Waistcoat"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Blazers",
+                "Waistcoats"
+            ],
+            "Vents": [
+                "Side Vents",
+                "Center Vent",
+                "Back Vents",
+                "No Vents"
+            ]
+        },
+        "Jackets & Coats": {
+            "Collar": [
+                "Band",
+                "Classic",
+                "Lapel",
+                "Cutaway",
+                "Button-Down",
+                "Spread",
+                "Mandarin",
+                "Stylised",
+                "Wing ",
+                "Shirt "
+            ],
+            "Feature": [
+                "Hooded",
+                "Water-Resistant",
+                "Wind-Resistant",
+                "Padded & Quilted",
+                "Water-proof",
+                "Reflective"
+            ],
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Product Name": [
+                "Jacket",
+                "Coat",
+                "Shacket",
+                "Bikers Jacket",
+                "Bomber Jacket",
+                "Trench Coat",
+                "Peacoats",
+                "Track Jacket",
+                "Gillet",
+                "Quilted Jacket"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Sport": [
+                "Yoga",
+                "Gym",
+                "Cycling",
+                "Tennis",
+                "Biking",
+                "Football",
+                "Outdoor",
+                "Running",
+                "Basketball",
+                "Cricket",
+                "Jackets",
+                "Training",
+                "Golf",
+                "Swimming",
+                "Other Sports",
+                "Dancing",
+                "Fitness",
+                "Trackwear",
+                "Universal"
+            ],
+            "Style Type": [
+                "Bikers & Bombers",
+                "Peacoats & Trenches",
+                "Hoodies & Tracks ",
+                "Gillets ",
+                "Stylised "
+            ]
+        },
+        "Jeans": {
+            "Distress": [
+                "Light Distress",
+                "Mid Distress",
+                "Heavy Distress"
+            ],
+            "Length": [
+                "Mid-Calf length",
+                "Ankle length",
+                "Full length"
+            ],
+            "Model Waist Size": {},
+            "Product Name": [
+                "Jeans",
+                "Skinny Jeans",
+                "Slim Jeans",
+                "Straight Jeans",
+                "Relaxed Jeans",
+                "Flared Jeans",
+                "Tapered Jeans",
+                "Jogger Jeans"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Style Type": [
+                "Skinny ",
+                "Slim",
+                "Straight",
+                "Relaxed",
+                "Flared",
+                "Joggers ",
+                "Tapered"
+            ],
+            "Waist Rise": [
+                "High Rise",
+                "Mid Rise",
+                "Low Rise"
+            ],
+            "Wash": [
+                "Clean",
+                "Acid Wash",
+                "Light Wash",
+                "Mid Wash",
+                "Heavy Wash"
+            ]
+        },
+        "Rainwear & Windcheaters ": {
+            "Feature": [
+                "Hooded",
+                "Water-Resistant",
+                "Wind-Resistant",
+                "Water-Proof",
+                "Padded & Quilted",
+                "Reflective",
+                "UV-Resistant"
+            ],
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Model Waist Size": {},
+            "Product Name": [
+                "Raincoat",
+                "Windbreaker",
+                "Outdoor Jacket",
+                "Jacket"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Raincoats",
+                "Windbreakers",
+                "Waterproof Jackets",
+                "Biker Jackets"
+            ]
+        },
+        "Shirt Pieces": {
+            "Measurement": {},
+            "Product Name": [
+                "Shirt Fabric"
+            ],
+            "Style Type": [
+                "Regular ",
+                "Stylised "
+            ]
+        },
+        "Shirts": {
+            "Collar": [
+                "Mandarin",
+                "Band",
+                "Button-down",
+                "Cut-away",
+                "Spread",
+                "Wing",
+                "Stylised",
+                "Lapel "
+            ],
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Product Name": [
+                "Shirt"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Classic",
+                "Shackets",
+                "Stylised"
+            ]
+        },
+        "Shorts & 3/4ths": {
+            "Branding": [
+                "Big Branding",
+                "Small Branding",
+                "Branding with Graphic"
+            ],
+            "Fit Type": [
+                "Regular Fit",
+                "Slim Fit"
+            ],
+            "Front Style": [
+                "Single-Pleat",
+                "Double-Pleat",
+                "Flat Front"
+            ],
+            "Length": [
+                "Above the knee",
+                "Knee Length",
+                "Below the knee"
+            ],
+            "Model Waist Size": {},
+            "Product Name": [
+                "Shorts",
+                "3/4th Shorts",
+                "Bermudas",
+                "Cargo Shorts",
+                "City Shorts"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sport": [
+                "Yoga",
+                "Gym",
+                "Cycling",
+                "Tennis",
+                "Biking",
+                "Football",
+                "Outdoor",
+                "Running",
+                "Basketball",
+                "Cricket",
+                "Jackets",
+                "Training",
+                "Golf",
+                "Swimming",
+                "Other Sports",
+                "Dancing",
+                "Fitness",
+                "Trackwear",
+                "Universal"
+            ],
+            "Style Type": [
+                "Bermudas",
+                "Cargo Shorts",
+                "City Shorts",
+                "Stylised"
+            ],
+            "Waist Rise": [
+                "High Rise",
+                "Mid Rise",
+                "Low Rise"
+            ]
+        },
+        "Suit Pieces": {
+            "Measurement": {},
+            "Product Name": [
+                "Suit Piece"
+            ],
+            "Style Type": [
+                "2-Piece ",
+                "3-Piece "
+            ]
+        },
+        "Suit Sets": {
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Model Waist Size": {},
+            "Product Name": [
+                "Suit Set"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "3-Piece Sets",
+                "2-Piece Sets"
+            ]
+        },
+        "Sweaters & Cardigans": {
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Neckline": [
+                "Crew",
+                "Collar",
+                "V-neck",
+                "Turtleneck",
+                "Henley",
+                "Stylised",
+                "Scoop",
+                "Round"
+            ],
+            "Product Name": [
+                "Pullover",
+                "Cardigan",
+                "V- neck Pullover",
+                "Crew-Neck Pullover",
+                "High-Neck Pullover",
+                "Open-Front Cardigan"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Cardigans",
+                "Pullovers",
+                "Stylised"
+            ]
+        },
+        "Sweatshirts & Hoodies": {
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Neckline": [
+                "Crew",
+                "Collar",
+                "V-neck",
+                "Turtleneck",
+                "Henley",
+                "Stylised",
+                "Scoop",
+                "Round"
+            ],
+            "Product Name": [
+                "Sweatshirt",
+                "Hoodie",
+                "Hooded Sweatshirt"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Sport": [
+                "Yoga",
+                "Gym",
+                "Cycling",
+                "Tennis",
+                "Biking",
+                "Football",
+                "Outdoor",
+                "Running",
+                "Basketball",
+                "Cricket",
+                "Jackets",
+                "Training",
+                "Golf",
+                "Swimming",
+                "Other Sports",
+                "Dancing",
+                "Fitness",
+                "Trackwear",
+                "Universal"
+            ],
+            "Style Type": [
+                "Hoodies",
+                "Sweat Shirts"
+            ]
+        },
+        "Swimwear": {
+            "Feature": {},
+            "Product Name": [
+                "Swimsuit",
+                "Swim Shorts",
+                "Swim Trunks ",
+                "Swim Briefs",
+                "Rashguard"
+            ],
+            "Style Type": [
+                "Swimsuits",
+                "Shorts ",
+                "Trunks ",
+                "Briefs",
+                "Rashguards"
+            ]
+        },
+        "Track Pants": {
+            "Branding": [
+                "Big Branding",
+                "Small Branding",
+                "Branding with Graphic"
+            ],
+            "Length": [
+                "Mid-Calf length",
+                "Ankle length",
+                "Full length"
+            ],
+            "Model Waist Size": {},
+            "Product Name": [
+                "Track Pants",
+                "Joggers",
+                "Sweat Pants"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sport": [
+                "Yoga",
+                "Gym",
+                "Cycling",
+                "Tennis",
+                "Biking",
+                "Football",
+                "Outdoor",
+                "Running",
+                "Basketball",
+                "Cricket",
+                "Jackets",
+                "Training",
+                "Golf",
+                "Swimming",
+                "Other Sports",
+                "Dancing",
+                "Fitness",
+                "Trackwear",
+                "Universal"
+            ],
+            "Style Type": [
+                "Straight",
+                "Joggers",
+                "Flared",
+                "Fitted",
+                "Stylised "
+            ],
+            "Waist Rise": [
+                "High Rise",
+                "Mid Rise",
+                "Low Rise"
+            ]
+        },
+        "Tracksuits": {
+            "Bottom Description": {},
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Model Waist Size": {},
+            "Product Name": [
+                "Tracksuit"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Style Type": [
+                "Running",
+                "Training",
+                "Performance ",
+                "Outdoor",
+                "Lifestyle"
+            ],
+            "Top Description": {}
+        },
+        "Trouser Pieces": {
+            "Measurement": {},
+            "Product Name": [
+                "Trouser Fabric"
+            ],
+            "Style Type": [
+                "Regular ",
+                "Stylised "
+            ]
+        },
+        "Trousers & Pants": {
+            "Fit Type": [
+                "Skinny Fit",
+                "Slim Fit",
+                "Relaxed Fit",
+                "Straight Fit",
+                "Tapered Fit",
+                "Stylised Fit",
+                "Boot Fit"
+            ],
+            "Front Style": [
+                "Single-Pleat",
+                "Double-Pleat",
+                "Flat Front"
+            ],
+            "Length": [
+                "Mid-Calf length",
+                "Ankle length",
+                "Full length"
+            ],
+            "Model Waist Size": {},
+            "Product Name": [
+                "Pants",
+                "Trousers",
+                "Cargo Pants",
+                "Chinos",
+                "Jogger Pants"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sport": [
+                "Yoga",
+                "Gym",
+                "Cycling",
+                "Tennis",
+                "Biking",
+                "Football",
+                "Outdoor",
+                "Running",
+                "Basketball",
+                "Cricket",
+                "Jackets",
+                "Training",
+                "Golf",
+                "Swimming",
+                "Other Sports",
+                "Dancing",
+                "Fitness",
+                "Trackwear",
+                "Universal"
+            ],
+            "Style Type": [
+                "Cargo",
+                "Chinos",
+                "Flat Front",
+                "Pleated",
+                "Stylised "
+            ],
+            "Waist Rise": [
+                "High Rise",
+                "Mid Rise",
+                "Low Rise"
+            ]
+        },
+        "Tshirts": {
+            "Branding": [
+                "Big Branding",
+                "Small Branding",
+                "Branding with Graphic"
+            ],
+            "Collar": [
+                "Shirt",
+                "Mandarin",
+                "Band",
+                "Stylised",
+                "Button-down",
+                "Cutaway",
+                "Spread",
+                "Wing",
+                "Lapel"
+            ],
+            "Fit": [
+                "Slim Fit",
+                "Extra Slim Fit",
+                "Regular Fit",
+                "Tailored Fit",
+                "Stylised Fit"
+            ],
+            "Length": [
+                "Short",
+                "Medium ",
+                "Long"
+            ],
+            "Model Chest Size": {},
+            "Neckline": [
+                "V-neck",
+                "Round",
+                "Collar",
+                "Scoop",
+                "Stylised",
+                "Turtleneck",
+                "Henley",
+                "Crew"
+            ],
+            "Product Name": [
+                "T-shirt",
+                "Polo T-shirt",
+                "V-neck T-shirt",
+                "Henley T-shirt",
+                "Crew- Neck T-shirt",
+                "High-Neck T-shirt"
+            ],
+            "Size Detail": [
+                "Fits true to standard size on the model",
+                "Fits smaller than standard size, so our model is wearing a size larger",
+                "Fits larger than standard size, so our model is wearing a size smaller",
+                "The model is wearing a size larger for a comfortable fit"
+            ],
+            "Sleeve": [
+                "Short",
+                "Sleeveless",
+                "Full-length",
+                "Stylised",
+                "3/4th"
+            ],
+            "Sport": [
+                "Yoga",
+                "Gym",
+                "Cycling",
+                "Tennis",
+                "Biking",
+                "Football",
+                "Outdoor",
+                "Running",
+                "Basketball",
+                "Cricket",
+                "Jackets",
+                "Training",
+                "Golf",
+                "Swimming",
+                "Other Sports",
+                "Dancing",
+                "Fitness",
+                "Trackwear",
+                "Universal"
+            ],
+            "Style Type": [
+                "Polo",
+                "V-neck",
+                "Henley",
+                "Crew",
+                "Stylised "
+            ]
+        }
+    }
+}
